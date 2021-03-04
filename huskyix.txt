@@ -1,0 +1,6 @@
+"huskyix"
+{
+	"base"		"base"
+	"title"		"HuskyIX"
+	"author"	"wowm0d"
+}
